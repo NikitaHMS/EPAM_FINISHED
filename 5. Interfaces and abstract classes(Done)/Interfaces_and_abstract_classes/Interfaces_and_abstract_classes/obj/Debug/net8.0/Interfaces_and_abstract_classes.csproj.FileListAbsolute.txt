@@ -1,0 +1,42 @@
+C:\Users\Admin\source\repos\Interfaces_and_abstract_classes\Interfaces_and_abstract_classes\bin\Debug\net8.0\Interfaces_and_abstract_classes.exe
+C:\Users\Admin\source\repos\Interfaces_and_abstract_classes\Interfaces_and_abstract_classes\bin\Debug\net8.0\Interfaces_and_abstract_classes.deps.json
+C:\Users\Admin\source\repos\Interfaces_and_abstract_classes\Interfaces_and_abstract_classes\bin\Debug\net8.0\Interfaces_and_abstract_classes.runtimeconfig.json
+C:\Users\Admin\source\repos\Interfaces_and_abstract_classes\Interfaces_and_abstract_classes\bin\Debug\net8.0\Interfaces_and_abstract_classes.dll
+C:\Users\Admin\source\repos\Interfaces_and_abstract_classes\Interfaces_and_abstract_classes\bin\Debug\net8.0\Interfaces_and_abstract_classes.pdb
+C:\Users\Admin\source\repos\Interfaces_and_abstract_classes\Interfaces_and_abstract_classes\obj\Debug\net8.0\Interfaces_and_abstract_classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Interfaces_and_abstract_classes\Interfaces_and_abstract_classes\obj\Debug\net8.0\Interfaces_and_abstract_classes.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Interfaces_and_abstract_classes\Interfaces_and_abstract_classes\obj\Debug\net8.0\Interfaces_and_abstract_classes.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Interfaces_and_abstract_classes\Interfaces_and_abstract_classes\obj\Debug\net8.0\Interfaces_and_abstract_classes.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Interfaces_and_abstract_classes\Interfaces_and_abstract_classes\obj\Debug\net8.0\Interfaces_and_abstract_classes.dll
+C:\Users\Admin\source\repos\Interfaces_and_abstract_classes\Interfaces_and_abstract_classes\obj\Debug\net8.0\refint\Interfaces_and_abstract_classes.dll
+C:\Users\Admin\source\repos\Interfaces_and_abstract_classes\Interfaces_and_abstract_classes\obj\Debug\net8.0\Interfaces_and_abstract_classes.pdb
+C:\Users\Admin\source\repos\Interfaces_and_abstract_classes\Interfaces_and_abstract_classes\obj\Debug\net8.0\Interfaces_and_abstract_classes.genruntimeconfig.cache
+C:\Users\Admin\source\repos\Interfaces_and_abstract_classes\Interfaces_and_abstract_classes\obj\Debug\net8.0\ref\Interfaces_and_abstract_classes.dll
+C:\Users\Admin\Desktop\EPAM_FINISHED\5. Interfaces and abstract classes(In progress)\Interfaces_and_abstract_classes\Interfaces_and_abstract_classes\bin\Debug\net8.0\Interfaces_and_abstract_classes.exe
+C:\Users\Admin\Desktop\EPAM_FINISHED\5. Interfaces and abstract classes(In progress)\Interfaces_and_abstract_classes\Interfaces_and_abstract_classes\bin\Debug\net8.0\Interfaces_and_abstract_classes.deps.json
+C:\Users\Admin\Desktop\EPAM_FINISHED\5. Interfaces and abstract classes(In progress)\Interfaces_and_abstract_classes\Interfaces_and_abstract_classes\bin\Debug\net8.0\Interfaces_and_abstract_classes.runtimeconfig.json
+C:\Users\Admin\Desktop\EPAM_FINISHED\5. Interfaces and abstract classes(In progress)\Interfaces_and_abstract_classes\Interfaces_and_abstract_classes\bin\Debug\net8.0\Interfaces_and_abstract_classes.dll
+C:\Users\Admin\Desktop\EPAM_FINISHED\5. Interfaces and abstract classes(In progress)\Interfaces_and_abstract_classes\Interfaces_and_abstract_classes\bin\Debug\net8.0\Interfaces_and_abstract_classes.pdb
+C:\Users\Admin\Desktop\EPAM_FINISHED\5. Interfaces and abstract classes(In progress)\Interfaces_and_abstract_classes\Interfaces_and_abstract_classes\obj\Debug\net8.0\Interfaces_and_abstract_classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\EPAM_FINISHED\5. Interfaces and abstract classes(In progress)\Interfaces_and_abstract_classes\Interfaces_and_abstract_classes\obj\Debug\net8.0\Interfaces_and_abstract_classes.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\EPAM_FINISHED\5. Interfaces and abstract classes(In progress)\Interfaces_and_abstract_classes\Interfaces_and_abstract_classes\obj\Debug\net8.0\Interfaces_and_abstract_classes.AssemblyInfo.cs
+C:\Users\Admin\Desktop\EPAM_FINISHED\5. Interfaces and abstract classes(In progress)\Interfaces_and_abstract_classes\Interfaces_and_abstract_classes\obj\Debug\net8.0\Interfaces_and_abstract_classes.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\EPAM_FINISHED\5. Interfaces and abstract classes(In progress)\Interfaces_and_abstract_classes\Interfaces_and_abstract_classes\obj\Debug\net8.0\Interfaces_and_abstract_classes.dll
+C:\Users\Admin\Desktop\EPAM_FINISHED\5. Interfaces and abstract classes(In progress)\Interfaces_and_abstract_classes\Interfaces_and_abstract_classes\obj\Debug\net8.0\refint\Interfaces_and_abstract_classes.dll
+C:\Users\Admin\Desktop\EPAM_FINISHED\5. Interfaces and abstract classes(In progress)\Interfaces_and_abstract_classes\Interfaces_and_abstract_classes\obj\Debug\net8.0\Interfaces_and_abstract_classes.pdb
+C:\Users\Admin\Desktop\EPAM_FINISHED\5. Interfaces and abstract classes(In progress)\Interfaces_and_abstract_classes\Interfaces_and_abstract_classes\obj\Debug\net8.0\Interfaces_and_abstract_classes.genruntimeconfig.cache
+C:\Users\Admin\Desktop\EPAM_FINISHED\5. Interfaces and abstract classes(In progress)\Interfaces_and_abstract_classes\Interfaces_and_abstract_classes\obj\Debug\net8.0\ref\Interfaces_and_abstract_classes.dll
+C:\Users\Admin\Desktop\EPAM_FINISHED\5. Interfaces and abstract classes(Done)\Interfaces_and_abstract_classes\Interfaces_and_abstract_classes\bin\Debug\net8.0\Interfaces_and_abstract_classes.exe
+C:\Users\Admin\Desktop\EPAM_FINISHED\5. Interfaces and abstract classes(Done)\Interfaces_and_abstract_classes\Interfaces_and_abstract_classes\bin\Debug\net8.0\Interfaces_and_abstract_classes.deps.json
+C:\Users\Admin\Desktop\EPAM_FINISHED\5. Interfaces and abstract classes(Done)\Interfaces_and_abstract_classes\Interfaces_and_abstract_classes\bin\Debug\net8.0\Interfaces_and_abstract_classes.runtimeconfig.json
+C:\Users\Admin\Desktop\EPAM_FINISHED\5. Interfaces and abstract classes(Done)\Interfaces_and_abstract_classes\Interfaces_and_abstract_classes\bin\Debug\net8.0\Interfaces_and_abstract_classes.dll
+C:\Users\Admin\Desktop\EPAM_FINISHED\5. Interfaces and abstract classes(Done)\Interfaces_and_abstract_classes\Interfaces_and_abstract_classes\bin\Debug\net8.0\Interfaces_and_abstract_classes.pdb
+C:\Users\Admin\Desktop\EPAM_FINISHED\5. Interfaces and abstract classes(Done)\Interfaces_and_abstract_classes\Interfaces_and_abstract_classes\obj\Debug\net8.0\Interfaces_and_abstract_classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\EPAM_FINISHED\5. Interfaces and abstract classes(Done)\Interfaces_and_abstract_classes\Interfaces_and_abstract_classes\obj\Debug\net8.0\Interfaces_and_abstract_classes.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\EPAM_FINISHED\5. Interfaces and abstract classes(Done)\Interfaces_and_abstract_classes\Interfaces_and_abstract_classes\obj\Debug\net8.0\Interfaces_and_abstract_classes.AssemblyInfo.cs
+C:\Users\Admin\Desktop\EPAM_FINISHED\5. Interfaces and abstract classes(Done)\Interfaces_and_abstract_classes\Interfaces_and_abstract_classes\obj\Debug\net8.0\Interfaces_and_abstract_classes.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\EPAM_FINISHED\5. Interfaces and abstract classes(Done)\Interfaces_and_abstract_classes\Interfaces_and_abstract_classes\obj\Debug\net8.0\Interfaces_and_abstract_classes.dll
+C:\Users\Admin\Desktop\EPAM_FINISHED\5. Interfaces and abstract classes(Done)\Interfaces_and_abstract_classes\Interfaces_and_abstract_classes\obj\Debug\net8.0\refint\Interfaces_and_abstract_classes.dll
+C:\Users\Admin\Desktop\EPAM_FINISHED\5. Interfaces and abstract classes(Done)\Interfaces_and_abstract_classes\Interfaces_and_abstract_classes\obj\Debug\net8.0\Interfaces_and_abstract_classes.pdb
+C:\Users\Admin\Desktop\EPAM_FINISHED\5. Interfaces and abstract classes(Done)\Interfaces_and_abstract_classes\Interfaces_and_abstract_classes\obj\Debug\net8.0\Interfaces_and_abstract_classes.genruntimeconfig.cache
+C:\Users\Admin\Desktop\EPAM_FINISHED\5. Interfaces and abstract classes(Done)\Interfaces_and_abstract_classes\Interfaces_and_abstract_classes\obj\Debug\net8.0\ref\Interfaces_and_abstract_classes.dll

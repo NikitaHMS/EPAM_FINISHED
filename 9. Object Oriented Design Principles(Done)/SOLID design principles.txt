@@ -1,0 +1,54 @@
+There are five SOLID principles:
+
+1. Single Responsibility Principle (SRP)
+
+2. Open Closed Principle (OCP)
+
+3. Liskov Substitution Principle (LSP)
+
+4. Interface Segregation Principle (ISP)
+
+5. Dependency Inversion Principle (DIP)
+
+
+
+Single Responsibility Principle
+
+In simple terms, a module or class should have a very small piece of responsibility in the entire application. Or as it states, a class/module should have not more than one reason to change.
+
+If a class has only a single responsibility, it is likely to be very robust. It’s easy to verify its working as per logic defined. And it’s easy to change in class as it has single responsibility.
+
+
+
+Open Closed Principle
+
+This principle suggests that the class should be easily extended but there is no need to change its core implementations.
+
+New features should be implemented using the new code, but not by changing existing code. The main benefit of adhering to OCP is that it potentially streamlines code maintenance and reduces the risk of breaking the existing implementation.
+
+
+
+Liskov Substitution Principle
+
+LSP states that the child class should be perfectly substitutable for their parent class. If class C is derived from P then C should be substitutable for P.
+
+We can check using LSP that inheritance is applied correctly or not in our code.
+
+LSP is a fundamental principle of SOLID Principles and states that if program or module is using base class then derived class should be able to extend their base class without changing their original implementation.
+
+
+
+Interface Segregation Principle
+
+Interface segregation principle is required to solve the design problem of the application. When all the tasks are done by a single class or in other words, one class is used in almost all the application classes then it has become a fat class with overburden. Inheriting such class will results in having sharing methods which are not relevant to derived classes but its there in the base class so that will inherit in the derived class.
+
+Using ISP, we can create separate interfaces for each operation or requirement rather than having a single class to do the same work.
+
+
+
+Dependency Inversion Principle
+
+In simple words, the principle says that there should not be a tight coupling among components of software and to avoid that, the components should depend on abstraction.
+
+Inversion of control can be implemented using either an abstract class or interface. The rule is that the lower level entities should join the contract to a single interface and the higher-level entities will use only entities that are implementing the interface. This technique removes the dependency between the entities.
+

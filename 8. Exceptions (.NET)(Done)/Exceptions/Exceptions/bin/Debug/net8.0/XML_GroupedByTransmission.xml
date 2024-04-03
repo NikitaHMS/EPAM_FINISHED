@@ -1,0 +1,235 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Root>
+  <Group TransmissionType="CVT">
+    <vehicle Id="0" Type="Passenger Car" Model="Nissan Altima">
+      <Engine>
+        <EnginePower>248 hp</EnginePower>
+        <EngineVolume>2,5</EngineVolume>
+        <EngineType>DIG</EngineType>
+        <EngineSerialNumber>8DC0398</EngineSerialNumber>
+      </Engine>
+      <Chassis>
+        <ChassisWheelsNumber>4</ChassisWheelsNumber>
+        <ChassisNumber>5UXXW3C53J0T80683</ChassisNumber>
+        <ChassisPermissableLoad>300 kg</ChassisPermissableLoad>
+      </Chassis>
+      <Transmission>
+        <TransmissionType>CVT</TransmissionType>
+        <NumberOfGears>6</NumberOfGears>
+        <Manufacturer>"American Axle"</Manufacturer>
+      </Transmission>
+    </vehicle>
+    <vehicle Id="1" Type="Passenger Car" Model="Honda Civic LX">
+      <Engine>
+        <EnginePower>158 hp</EnginePower>
+        <EngineVolume>1,8</EngineVolume>
+        <EngineType>In-Line 4-Cylinder</EngineType>
+        <EngineSerialNumber>EW9V3X9Q</EngineSerialNumber>
+      </Engine>
+      <Chassis>
+        <ChassisWheelsNumber>4</ChassisWheelsNumber>
+        <ChassisNumber>JQP3WA5JMHV9DM477</ChassisNumber>
+        <ChassisPermissableLoad>290 kg</ChassisPermissableLoad>
+      </Chassis>
+      <Transmission>
+        <TransmissionType>CVT</TransmissionType>
+        <NumberOfGears>6</NumberOfGears>
+        <Manufacturer>"Honda"</Manufacturer>
+      </Transmission>
+    </vehicle>
+    <vehicle Id="9" Type="Scooter" Model="Honda Cliq">
+      <Engine>
+        <EnginePower>8 hp</EnginePower>
+        <EngineVolume>0,15</EngineVolume>
+        <EngineType>SI</EngineType>
+        <EngineSerialNumber>TP00535</EngineSerialNumber>
+      </Engine>
+      <Chassis>
+        <ChassisWheelsNumber>2</ChassisWheelsNumber>
+        <ChassisNumber>RFBG1G107EB160295</ChassisNumber>
+        <ChassisPermissableLoad>125 kg</ChassisPermissableLoad>
+      </Chassis>
+      <Transmission>
+        <TransmissionType>CVT</TransmissionType>
+        <NumberOfGears>4</NumberOfGears>
+        <Manufacturer>"CHANGXING"</Manufacturer>
+      </Transmission>
+    </vehicle>
+  </Group>
+  <Group TransmissionType="FWD">
+    <vehicle Id="2" Type="Passenger Car" Model="Volkswagen Bora">
+      <Engine>
+        <EnginePower>204 hp</EnginePower>
+        <EngineVolume>1,9</EngineVolume>
+        <EngineType>4-Cylinder diesel engine</EngineType>
+        <EngineSerialNumber>3KJK7F3V</EngineSerialNumber>
+      </Engine>
+      <Chassis>
+        <ChassisWheelsNumber>4</ChassisWheelsNumber>
+        <ChassisNumber>BXZC93N3B7E9DZNHE</ChassisNumber>
+        <ChassisPermissableLoad>1,4 tons</ChassisPermissableLoad>
+      </Chassis>
+      <Transmission>
+        <TransmissionType>FWD</TransmissionType>
+        <NumberOfGears>4</NumberOfGears>
+        <Manufacturer>"Volkswagen"</Manufacturer>
+      </Transmission>
+    </vehicle>
+  </Group>
+  <Group TransmissionType="PGA">
+    <vehicle Id="3" Type="Truck" Model="Volvo FMX">
+      <Engine>
+        <EnginePower>400 hp</EnginePower>
+        <EngineVolume>6,0</EngineVolume>
+        <EngineType>DSL</EngineType>
+        <EngineSerialNumber>MXS81323</EngineSerialNumber>
+      </Engine>
+      <Chassis>
+        <ChassisWheelsNumber>6</ChassisWheelsNumber>
+        <ChassisNumber>1FUJGLD13HLJF2695</ChassisNumber>
+        <ChassisPermissableLoad>25 tons</ChassisPermissableLoad>
+      </Chassis>
+      <Transmission>
+        <TransmissionType>PGA</TransmissionType>
+        <NumberOfGears>9</NumberOfGears>
+        <Manufacturer>"Dana Limited"</Manufacturer>
+      </Transmission>
+    </vehicle>
+  </Group>
+  <Group TransmissionType="ZF">
+    <vehicle Id="4" Type="Truck" Model="Ford 1833 DC">
+      <Engine>
+        <EnginePower>330 hp</EnginePower>
+        <EngineVolume>9,0</EngineVolume>
+        <EngineType>Ecotorq</EngineType>
+        <EngineSerialNumber>N3BE72S8</EngineSerialNumber>
+      </Engine>
+      <Chassis>
+        <ChassisWheelsNumber>4</ChassisWheelsNumber>
+        <ChassisNumber>NVZVJDJ6L8DAX9CC8</ChassisNumber>
+        <ChassisPermissableLoad>19 tons</ChassisPermissableLoad>
+      </Chassis>
+      <Transmission>
+        <TransmissionType>ZF</TransmissionType>
+        <NumberOfGears>10</NumberOfGears>
+        <Manufacturer>"Ford"</Manufacturer>
+      </Transmission>
+    </vehicle>
+    <vehicle Id="7" Type="Bus" Model="Iveco Magelys Lounge">
+      <Engine>
+        <EnginePower>394 hp</EnginePower>
+        <EngineVolume>8,7</EngineVolume>
+        <EngineType>Cursor 9</EngineType>
+        <EngineSerialNumber>PB46B4QZ</EngineSerialNumber>
+      </Engine>
+      <Chassis>
+        <ChassisWheelsNumber>4</ChassisWheelsNumber>
+        <ChassisNumber>BHHECA762RVMHHYXJ</ChassisNumber>
+        <ChassisPermissableLoad>12,5 tons</ChassisPermissableLoad>
+      </Chassis>
+      <Transmission>
+        <TransmissionType>ZF</TransmissionType>
+        <NumberOfGears>12</NumberOfGears>
+        <Manufacturer>"Iveco"</Manufacturer>
+      </Transmission>
+    </vehicle>
+  </Group>
+  <Group TransmissionType="Manual">
+    <vehicle Id="5" Type="Truck" Model="Kenworth T680">
+      <Engine>
+        <EnginePower>510 hp</EnginePower>
+        <EngineVolume>12,9</EngineVolume>
+        <EngineType>MX-13</EngineType>
+        <EngineSerialNumber>4TKAXR6E</EngineSerialNumber>
+      </Engine>
+      <Chassis>
+        <ChassisWheelsNumber>6</ChassisWheelsNumber>
+        <ChassisNumber>5J6TJN5F8PPRSHT3Y</ChassisNumber>
+        <ChassisPermissableLoad>23 tons</ChassisPermissableLoad>
+      </Chassis>
+      <Transmission>
+        <TransmissionType>Manual</TransmissionType>
+        <NumberOfGears>10</NumberOfGears>
+        <Manufacturer>"Kenworth"</Manufacturer>
+      </Transmission>
+    </vehicle>
+  </Group>
+  <Group TransmissionType="AT">
+    <vehicle Id="6" Type="Bus" Model="Ashok Leyland Cheetah">
+      <Engine>
+        <EnginePower>320 hp</EnginePower>
+        <EngineVolume>9,0</EngineVolume>
+        <EngineType>ISL</EngineType>
+        <EngineSerialNumber>CJ010132X</EngineSerialNumber>
+      </Engine>
+      <Chassis>
+        <ChassisWheelsNumber>4</ChassisWheelsNumber>
+        <ChassisNumber>2H2XA59BWDY987665</ChassisNumber>
+        <ChassisPermissableLoad>20 tons</ChassisPermissableLoad>
+      </Chassis>
+      <Transmission>
+        <TransmissionType>AT</TransmissionType>
+        <NumberOfGears>7</NumberOfGears>
+        <Manufacturer>"Diwa"</Manufacturer>
+      </Transmission>
+    </vehicle>
+  </Group>
+  <Group TransmissionType="Automatic">
+    <vehicle Id="8" Type="Bus" Model="The Man TGE Coach">
+      <Engine>
+        <EnginePower>174 hp</EnginePower>
+        <EngineVolume>2,0</EngineVolume>
+        <EngineType>Turbo Diesel</EngineType>
+        <EngineSerialNumber>XF7KNEN9</EngineSerialNumber>
+      </Engine>
+      <Chassis>
+        <ChassisWheelsNumber>4</ChassisWheelsNumber>
+        <ChassisNumber>949YJ23JRA83TJF9A</ChassisNumber>
+        <ChassisPermissableLoad>5,5 tons</ChassisPermissableLoad>
+      </Chassis>
+      <Transmission>
+        <TransmissionType>Automatic</TransmissionType>
+        <NumberOfGears>8</NumberOfGears>
+        <Manufacturer>"MAN"</Manufacturer>
+      </Transmission>
+    </vehicle>
+    <vehicle Id="10" Type="Scooter" Model="Yamaha Alpha">
+      <Engine>
+        <EnginePower>7 hp</EnginePower>
+        <EngineVolume>0,11</EngineVolume>
+        <EngineType>Single-cylinder engine, 4-stroke</EngineType>
+        <EngineSerialNumber>B6E4GNPK</EngineSerialNumber>
+      </Engine>
+      <Chassis>
+        <ChassisWheelsNumber>2</ChassisWheelsNumber>
+        <ChassisNumber>5E6E3GXSFRKSTMBBX</ChassisNumber>
+        <ChassisPermissableLoad>102 kg</ChassisPermissableLoad>
+      </Chassis>
+      <Transmission>
+        <TransmissionType>Automatic</TransmissionType>
+        <NumberOfGears>4</NumberOfGears>
+        <Manufacturer>"Yamaha"</Manufacturer>
+      </Transmission>
+    </vehicle>
+  </Group>
+  <Group TransmissionType="Belt">
+    <vehicle Id="11" Type="Scooter" Model="Piaggio Medley">
+      <Engine>
+        <EnginePower>14 hp</EnginePower>
+        <EngineVolume>0,12</EngineVolume>
+        <EngineType>Single-cylinder, 4-stroke</EngineType>
+        <EngineSerialNumber>L6LA8K8V</EngineSerialNumber>
+      </Engine>
+      <Chassis>
+        <ChassisWheelsNumber>2</ChassisWheelsNumber>
+        <ChassisNumber>S8G9PSLQ5PCXSXP8D</ChassisNumber>
+        <ChassisPermissableLoad>125 kg</ChassisPermissableLoad>
+      </Chassis>
+      <Transmission>
+        <TransmissionType>Belt</TransmissionType>
+        <NumberOfGears>4</NumberOfGears>
+        <Manufacturer>"Piaggio"</Manufacturer>
+      </Transmission>
+    </vehicle>
+  </Group>
+</Root>

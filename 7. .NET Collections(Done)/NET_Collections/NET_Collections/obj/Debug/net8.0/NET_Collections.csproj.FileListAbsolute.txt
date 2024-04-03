@@ -1,0 +1,42 @@
+C:\Users\Admin\source\repos\NET_Collections\NET_Collections\bin\Debug\net8.0\NET_Collections.exe
+C:\Users\Admin\source\repos\NET_Collections\NET_Collections\bin\Debug\net8.0\NET_Collections.deps.json
+C:\Users\Admin\source\repos\NET_Collections\NET_Collections\bin\Debug\net8.0\NET_Collections.runtimeconfig.json
+C:\Users\Admin\source\repos\NET_Collections\NET_Collections\bin\Debug\net8.0\NET_Collections.dll
+C:\Users\Admin\source\repos\NET_Collections\NET_Collections\bin\Debug\net8.0\NET_Collections.pdb
+C:\Users\Admin\source\repos\NET_Collections\NET_Collections\obj\Debug\net8.0\NET_Collections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\NET_Collections\NET_Collections\obj\Debug\net8.0\NET_Collections.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\NET_Collections\NET_Collections\obj\Debug\net8.0\NET_Collections.AssemblyInfo.cs
+C:\Users\Admin\source\repos\NET_Collections\NET_Collections\obj\Debug\net8.0\NET_Collections.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\NET_Collections\NET_Collections\obj\Debug\net8.0\NET_Collections.dll
+C:\Users\Admin\source\repos\NET_Collections\NET_Collections\obj\Debug\net8.0\refint\NET_Collections.dll
+C:\Users\Admin\source\repos\NET_Collections\NET_Collections\obj\Debug\net8.0\NET_Collections.pdb
+C:\Users\Admin\source\repos\NET_Collections\NET_Collections\obj\Debug\net8.0\NET_Collections.genruntimeconfig.cache
+C:\Users\Admin\source\repos\NET_Collections\NET_Collections\obj\Debug\net8.0\ref\NET_Collections.dll
+C:\Users\Admin\Desktop\EPAM_FINISHED\7. .NET Collections\NET_Collections\NET_Collections\bin\Debug\net8.0\NET_Collections.exe
+C:\Users\Admin\Desktop\EPAM_FINISHED\7. .NET Collections\NET_Collections\NET_Collections\bin\Debug\net8.0\NET_Collections.deps.json
+C:\Users\Admin\Desktop\EPAM_FINISHED\7. .NET Collections\NET_Collections\NET_Collections\bin\Debug\net8.0\NET_Collections.runtimeconfig.json
+C:\Users\Admin\Desktop\EPAM_FINISHED\7. .NET Collections\NET_Collections\NET_Collections\bin\Debug\net8.0\NET_Collections.dll
+C:\Users\Admin\Desktop\EPAM_FINISHED\7. .NET Collections\NET_Collections\NET_Collections\bin\Debug\net8.0\NET_Collections.pdb
+C:\Users\Admin\Desktop\EPAM_FINISHED\7. .NET Collections\NET_Collections\NET_Collections\obj\Debug\net8.0\NET_Collections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\EPAM_FINISHED\7. .NET Collections\NET_Collections\NET_Collections\obj\Debug\net8.0\NET_Collections.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\EPAM_FINISHED\7. .NET Collections\NET_Collections\NET_Collections\obj\Debug\net8.0\NET_Collections.AssemblyInfo.cs
+C:\Users\Admin\Desktop\EPAM_FINISHED\7. .NET Collections\NET_Collections\NET_Collections\obj\Debug\net8.0\NET_Collections.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\EPAM_FINISHED\7. .NET Collections\NET_Collections\NET_Collections\obj\Debug\net8.0\NET_Collections.dll
+C:\Users\Admin\Desktop\EPAM_FINISHED\7. .NET Collections\NET_Collections\NET_Collections\obj\Debug\net8.0\refint\NET_Collections.dll
+C:\Users\Admin\Desktop\EPAM_FINISHED\7. .NET Collections\NET_Collections\NET_Collections\obj\Debug\net8.0\NET_Collections.pdb
+C:\Users\Admin\Desktop\EPAM_FINISHED\7. .NET Collections\NET_Collections\NET_Collections\obj\Debug\net8.0\NET_Collections.genruntimeconfig.cache
+C:\Users\Admin\Desktop\EPAM_FINISHED\7. .NET Collections\NET_Collections\NET_Collections\obj\Debug\net8.0\ref\NET_Collections.dll
+C:\Users\Admin\Desktop\EPAM_FINISHED\7. .NET Collections(Done)\NET_Collections\NET_Collections\bin\Debug\net8.0\NET_Collections.exe
+C:\Users\Admin\Desktop\EPAM_FINISHED\7. .NET Collections(Done)\NET_Collections\NET_Collections\bin\Debug\net8.0\NET_Collections.deps.json
+C:\Users\Admin\Desktop\EPAM_FINISHED\7. .NET Collections(Done)\NET_Collections\NET_Collections\bin\Debug\net8.0\NET_Collections.runtimeconfig.json
+C:\Users\Admin\Desktop\EPAM_FINISHED\7. .NET Collections(Done)\NET_Collections\NET_Collections\bin\Debug\net8.0\NET_Collections.dll
+C:\Users\Admin\Desktop\EPAM_FINISHED\7. .NET Collections(Done)\NET_Collections\NET_Collections\bin\Debug\net8.0\NET_Collections.pdb
+C:\Users\Admin\Desktop\EPAM_FINISHED\7. .NET Collections(Done)\NET_Collections\NET_Collections\obj\Debug\net8.0\NET_Collections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\EPAM_FINISHED\7. .NET Collections(Done)\NET_Collections\NET_Collections\obj\Debug\net8.0\NET_Collections.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\EPAM_FINISHED\7. .NET Collections(Done)\NET_Collections\NET_Collections\obj\Debug\net8.0\NET_Collections.AssemblyInfo.cs
+C:\Users\Admin\Desktop\EPAM_FINISHED\7. .NET Collections(Done)\NET_Collections\NET_Collections\obj\Debug\net8.0\NET_Collections.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\EPAM_FINISHED\7. .NET Collections(Done)\NET_Collections\NET_Collections\obj\Debug\net8.0\NET_Collections.dll
+C:\Users\Admin\Desktop\EPAM_FINISHED\7. .NET Collections(Done)\NET_Collections\NET_Collections\obj\Debug\net8.0\refint\NET_Collections.dll
+C:\Users\Admin\Desktop\EPAM_FINISHED\7. .NET Collections(Done)\NET_Collections\NET_Collections\obj\Debug\net8.0\NET_Collections.pdb
+C:\Users\Admin\Desktop\EPAM_FINISHED\7. .NET Collections(Done)\NET_Collections\NET_Collections\obj\Debug\net8.0\NET_Collections.genruntimeconfig.cache
+C:\Users\Admin\Desktop\EPAM_FINISHED\7. .NET Collections(Done)\NET_Collections\NET_Collections\obj\Debug\net8.0\ref\NET_Collections.dll

@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Root>
+  <vehicle Type="Truck" Model="Volvo FMX">
+    <EnginePower>400-hp</EnginePower>
+    <EngineType>DSL</EngineType>
+    <EngineSerialNumber>MXS81323</EngineSerialNumber>
+  </vehicle>
+  <vehicle Type="Truck" Model="Ford 1833 DC">
+    <EnginePower>330-hp</EnginePower>
+    <EngineType>Ecotorq</EngineType>
+    <EngineSerialNumber>N3BE72S8</EngineSerialNumber>
+  </vehicle>
+  <vehicle Type="Truck" Model="Kenworth T680">
+    <EnginePower>510-hp</EnginePower>
+    <EngineType>MX-13</EngineType>
+    <EngineSerialNumber>4TKAXR6E</EngineSerialNumber>
+  </vehicle>
+  <vehicle Type="Bus" Model="Ashok Leyland Cheetah">
+    <EnginePower>320-hp</EnginePower>
+    <EngineType>ISL</EngineType>
+    <EngineSerialNumber>CJ010132X</EngineSerialNumber>
+  </vehicle>
+  <vehicle Type="Bus" Model="Iveco Magelys Lounge">
+    <EnginePower>394-hp</EnginePower>
+    <EngineType>Cursor 9</EngineType>
+    <EngineSerialNumber>PB46B4QZ</EngineSerialNumber>
+  </vehicle>
+  <vehicle Type="Bus" Model="The Man TGE Coach">
+    <EnginePower>174-hp</EnginePower>
+    <EngineType>Turbo Diesel</EngineType>
+    <EngineSerialNumber>XF7KNEN9</EngineSerialNumber>
+  </vehicle>
+</Root>

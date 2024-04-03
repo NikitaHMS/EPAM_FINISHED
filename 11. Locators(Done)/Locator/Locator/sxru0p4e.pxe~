@@ -1,0 +1,36 @@
+using OpenQA.Selenium;
+using OpenQA.Selenium.Chrome;
+
+namespace Locator
+{
+    [TestClass]
+    public class LocatorTests
+    {
+        IWebDriver driver;
+        
+        [TestMethod]
+        public void TestMethod1()
+        {
+            SetUpWebDriverChrome();
+
+            driver.Navigate().GoToUrl("https://www.bbc.com/sport");
+            IWebElement searchButton = driver.FindElement(By.XPath("//div[@role=\"search\"]"));
+
+            Assert.IsTrue(searchButton.Displayed);
+        }
+
+        [TestCleanup]
+        public void Cleanup()
+        {
+            if (driver != null)
+            {
+                driver.Quit();
+            }
+        }
+
+        public void SetUpWebDriverChrome()
+        {
+            driver = new ChromeDriver();
+        }
+    }
+}

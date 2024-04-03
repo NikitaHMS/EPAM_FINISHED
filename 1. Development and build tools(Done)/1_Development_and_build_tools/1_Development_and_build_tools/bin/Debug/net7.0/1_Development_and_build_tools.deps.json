@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "1_Development_and_build_tools/1.0.0": {
+        "runtime": {
+          "1_Development_and_build_tools.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "1_Development_and_build_tools/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

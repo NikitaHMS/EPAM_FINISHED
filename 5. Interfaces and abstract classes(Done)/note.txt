@@ -1,0 +1,8 @@
+Airplane:
+- The plane will have to land to refuel, if the flight lasts longer than 20 hours. 
+- Refueling process lasts 1 hour.
+
+Bird:
+- The bird stops to look for food once every three hours for 5 minutes.
+
+- The bird sleeps 11 hours a day.

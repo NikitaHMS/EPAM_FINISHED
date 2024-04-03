@@ -1,0 +1,5 @@
+Create a program that takes a sequence of symbols (string) as arguments from the command line and prints the maximum number of unequal consecutive characters per line to the console.
+
+https://learn.microsoft.com/en-us/visualstudio/get-started/csharp/tutorial-console?view=vs-2019
+
+https://learn.microsoft.com/en-us/visualstudio/get-started/csharp/tutorial-debugger?view=vs-2019

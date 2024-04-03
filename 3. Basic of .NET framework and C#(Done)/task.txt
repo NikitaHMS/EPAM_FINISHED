@@ -1,0 +1,5 @@
+Create a program that takse an integer in decimal, and a new base number system (from 2 to 20) from the command line. Print the original number converted to this system to the console.
+
+https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/
+
+https://learn.microsoft.com/en-us/dotnet/standard/choosing-core-framework-server

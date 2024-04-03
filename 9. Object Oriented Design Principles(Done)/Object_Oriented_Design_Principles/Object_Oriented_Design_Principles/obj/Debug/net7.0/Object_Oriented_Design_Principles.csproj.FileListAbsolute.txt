@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\Object_Oriented_Design_Principles\Object_Oriented_Design_Principles\bin\Debug\net7.0\Object_Oriented_Design_Principles.exe
+C:\Users\Admin\source\repos\Object_Oriented_Design_Principles\Object_Oriented_Design_Principles\bin\Debug\net7.0\Object_Oriented_Design_Principles.deps.json
+C:\Users\Admin\source\repos\Object_Oriented_Design_Principles\Object_Oriented_Design_Principles\bin\Debug\net7.0\Object_Oriented_Design_Principles.runtimeconfig.json
+C:\Users\Admin\source\repos\Object_Oriented_Design_Principles\Object_Oriented_Design_Principles\bin\Debug\net7.0\Object_Oriented_Design_Principles.dll
+C:\Users\Admin\source\repos\Object_Oriented_Design_Principles\Object_Oriented_Design_Principles\bin\Debug\net7.0\Object_Oriented_Design_Principles.pdb
+C:\Users\Admin\source\repos\Object_Oriented_Design_Principles\Object_Oriented_Design_Principles\obj\Debug\net7.0\Object_Oriented_Design_Principles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Object_Oriented_Design_Principles\Object_Oriented_Design_Principles\obj\Debug\net7.0\Object_Oriented_Design_Principles.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Object_Oriented_Design_Principles\Object_Oriented_Design_Principles\obj\Debug\net7.0\Object_Oriented_Design_Principles.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Object_Oriented_Design_Principles\Object_Oriented_Design_Principles\obj\Debug\net7.0\Object_Oriented_Design_Principles.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Object_Oriented_Design_Principles\Object_Oriented_Design_Principles\obj\Debug\net7.0\Object_Oriented_Design_Principles.dll
+C:\Users\Admin\source\repos\Object_Oriented_Design_Principles\Object_Oriented_Design_Principles\obj\Debug\net7.0\refint\Object_Oriented_Design_Principles.dll
+C:\Users\Admin\source\repos\Object_Oriented_Design_Principles\Object_Oriented_Design_Principles\obj\Debug\net7.0\Object_Oriented_Design_Principles.pdb
+C:\Users\Admin\source\repos\Object_Oriented_Design_Principles\Object_Oriented_Design_Principles\obj\Debug\net7.0\Object_Oriented_Design_Principles.genruntimeconfig.cache
+C:\Users\Admin\source\repos\Object_Oriented_Design_Principles\Object_Oriented_Design_Principles\obj\Debug\net7.0\ref\Object_Oriented_Design_Principles.dll

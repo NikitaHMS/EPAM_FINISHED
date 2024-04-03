@@ -1,0 +1,15 @@
+***** - example 
+min > hour > day of month > month > day of week
+
+* - 'any'
+Example: ***** - every minute of every hour of of every day of every month of every day of the week
+
+*/n - every n
+Example: */5**** - every 5 minutes of every hour of of every day of every month of every day of the week
+
+Other examples:
+0 */2 * * mon-fri - every two hours at the top of the hour every day of every month from Monday to Friday
+
+0 0 1,10,15 * * - on midnight of every 1st, 10th & 15th day of every month
+
+@midnight - some time between 12:00 AM and 2:59 AM

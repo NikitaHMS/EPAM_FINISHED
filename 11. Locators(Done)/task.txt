@@ -1,0 +1,17 @@
+Practice looking for items (examples of items: Search field, 'All Sports' button, BBC icon, etc.) on https://www.bbc.com/sport or a similar service using different types of locators
+Practice using XPath Axes using the same elements as an example
+
+
+https://www.w3schools.com/xml/xpath_intro.asp
+
+https://www.browserstack.com/guide/locators-in-selenium
+
+https://www.w3schools.com/xml/xpath_nodes.asp
+
+https://www.w3schools.com/xml/xpath_syntax.asp
+
+https://www.w3schools.com/xml/xpath_axes.asp
+
+https://www.w3schools.com/xml/xpath_operators.asp
+
+https://www.w3schools.com/cssref/css_selectors.asp

@@ -1,0 +1,28 @@
+C:\Users\Admin\Desktop\EPAM_FINISHED\3. Basic of .NET framework and C#(Not done)\BasicsOfNetFramework\BasicsOfNetFramework\bin\Debug\net7.0\BasicsOfNetFramework.exe
+C:\Users\Admin\Desktop\EPAM_FINISHED\3. Basic of .NET framework and C#(Not done)\BasicsOfNetFramework\BasicsOfNetFramework\bin\Debug\net7.0\BasicsOfNetFramework.deps.json
+C:\Users\Admin\Desktop\EPAM_FINISHED\3. Basic of .NET framework and C#(Not done)\BasicsOfNetFramework\BasicsOfNetFramework\bin\Debug\net7.0\BasicsOfNetFramework.runtimeconfig.json
+C:\Users\Admin\Desktop\EPAM_FINISHED\3. Basic of .NET framework and C#(Not done)\BasicsOfNetFramework\BasicsOfNetFramework\bin\Debug\net7.0\BasicsOfNetFramework.dll
+C:\Users\Admin\Desktop\EPAM_FINISHED\3. Basic of .NET framework and C#(Not done)\BasicsOfNetFramework\BasicsOfNetFramework\bin\Debug\net7.0\BasicsOfNetFramework.pdb
+C:\Users\Admin\Desktop\EPAM_FINISHED\3. Basic of .NET framework and C#(Not done)\BasicsOfNetFramework\BasicsOfNetFramework\obj\Debug\net7.0\BasicsOfNetFramework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\EPAM_FINISHED\3. Basic of .NET framework and C#(Not done)\BasicsOfNetFramework\BasicsOfNetFramework\obj\Debug\net7.0\BasicsOfNetFramework.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\EPAM_FINISHED\3. Basic of .NET framework and C#(Not done)\BasicsOfNetFramework\BasicsOfNetFramework\obj\Debug\net7.0\BasicsOfNetFramework.AssemblyInfo.cs
+C:\Users\Admin\Desktop\EPAM_FINISHED\3. Basic of .NET framework and C#(Not done)\BasicsOfNetFramework\BasicsOfNetFramework\obj\Debug\net7.0\BasicsOfNetFramework.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\EPAM_FINISHED\3. Basic of .NET framework and C#(Not done)\BasicsOfNetFramework\BasicsOfNetFramework\obj\Debug\net7.0\BasicsOfNetFramework.dll
+C:\Users\Admin\Desktop\EPAM_FINISHED\3. Basic of .NET framework and C#(Not done)\BasicsOfNetFramework\BasicsOfNetFramework\obj\Debug\net7.0\refint\BasicsOfNetFramework.dll
+C:\Users\Admin\Desktop\EPAM_FINISHED\3. Basic of .NET framework and C#(Not done)\BasicsOfNetFramework\BasicsOfNetFramework\obj\Debug\net7.0\BasicsOfNetFramework.pdb
+C:\Users\Admin\Desktop\EPAM_FINISHED\3. Basic of .NET framework and C#(Not done)\BasicsOfNetFramework\BasicsOfNetFramework\obj\Debug\net7.0\BasicsOfNetFramework.genruntimeconfig.cache
+C:\Users\Admin\Desktop\EPAM_FINISHED\3. Basic of .NET framework and C#(Not done)\BasicsOfNetFramework\BasicsOfNetFramework\obj\Debug\net7.0\ref\BasicsOfNetFramework.dll
+C:\Users\Admin\Desktop\EPAM_FINISHED\3. Basic of .NET framework and C#(Done)\BasicsOfNetFramework\BasicsOfNetFramework\bin\Debug\net7.0\BasicsOfNetFramework.exe
+C:\Users\Admin\Desktop\EPAM_FINISHED\3. Basic of .NET framework and C#(Done)\BasicsOfNetFramework\BasicsOfNetFramework\bin\Debug\net7.0\BasicsOfNetFramework.deps.json
+C:\Users\Admin\Desktop\EPAM_FINISHED\3. Basic of .NET framework and C#(Done)\BasicsOfNetFramework\BasicsOfNetFramework\bin\Debug\net7.0\BasicsOfNetFramework.runtimeconfig.json
+C:\Users\Admin\Desktop\EPAM_FINISHED\3. Basic of .NET framework and C#(Done)\BasicsOfNetFramework\BasicsOfNetFramework\bin\Debug\net7.0\BasicsOfNetFramework.dll
+C:\Users\Admin\Desktop\EPAM_FINISHED\3. Basic of .NET framework and C#(Done)\BasicsOfNetFramework\BasicsOfNetFramework\bin\Debug\net7.0\BasicsOfNetFramework.pdb
+C:\Users\Admin\Desktop\EPAM_FINISHED\3. Basic of .NET framework and C#(Done)\BasicsOfNetFramework\BasicsOfNetFramework\obj\Debug\net7.0\BasicsOfNetFramework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\EPAM_FINISHED\3. Basic of .NET framework and C#(Done)\BasicsOfNetFramework\BasicsOfNetFramework\obj\Debug\net7.0\BasicsOfNetFramework.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\EPAM_FINISHED\3. Basic of .NET framework and C#(Done)\BasicsOfNetFramework\BasicsOfNetFramework\obj\Debug\net7.0\BasicsOfNetFramework.AssemblyInfo.cs
+C:\Users\Admin\Desktop\EPAM_FINISHED\3. Basic of .NET framework and C#(Done)\BasicsOfNetFramework\BasicsOfNetFramework\obj\Debug\net7.0\BasicsOfNetFramework.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\EPAM_FINISHED\3. Basic of .NET framework and C#(Done)\BasicsOfNetFramework\BasicsOfNetFramework\obj\Debug\net7.0\BasicsOfNetFramework.dll
+C:\Users\Admin\Desktop\EPAM_FINISHED\3. Basic of .NET framework and C#(Done)\BasicsOfNetFramework\BasicsOfNetFramework\obj\Debug\net7.0\refint\BasicsOfNetFramework.dll
+C:\Users\Admin\Desktop\EPAM_FINISHED\3. Basic of .NET framework and C#(Done)\BasicsOfNetFramework\BasicsOfNetFramework\obj\Debug\net7.0\BasicsOfNetFramework.pdb
+C:\Users\Admin\Desktop\EPAM_FINISHED\3. Basic of .NET framework and C#(Done)\BasicsOfNetFramework\BasicsOfNetFramework\obj\Debug\net7.0\BasicsOfNetFramework.genruntimeconfig.cache
+C:\Users\Admin\Desktop\EPAM_FINISHED\3. Basic of .NET framework and C#(Done)\BasicsOfNetFramework\BasicsOfNetFramework\obj\Debug\net7.0\ref\BasicsOfNetFramework.dll
